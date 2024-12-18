@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [NagarajuKodelaResume.pdf](NagarajuKodelaResume.pdf)
 
-- ⚡ Fun fact **I Think Iam Naive**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
